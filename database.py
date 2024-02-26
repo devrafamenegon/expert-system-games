@@ -8,6 +8,7 @@ BD = [
         "AVALIACAO": 9.8,
         "PRECO": 59.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "The Legend of Zelda: Breath of the Wild",
@@ -18,6 +19,7 @@ BD = [
         "AVALIACAO": 9.7,
         "PRECO": 49.99,
         "FAIXA_ETARIA": "Livre",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Grand Theft Auto V",
@@ -28,6 +30,7 @@ BD = [
         "AVALIACAO": 9.5,
         "PRECO": 29.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Minecraft",
@@ -48,6 +51,7 @@ BD = [
         "AVALIACAO": 9.2,
         "PRECO": 26.95,
         "FAIXA_ETARIA": "Livre",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Red Dead Redemption 2",
@@ -58,6 +62,7 @@ BD = [
         "AVALIACAO": 9.8,
         "PRECO": 59.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Fortnite",
@@ -75,6 +80,7 @@ BD = [
         "AVALIACAO": 8.9,
         "PRECO": 0.00,
         "FAIXA_ETARIA": "Para adolescentes",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Cyberpunk 2077",
@@ -91,6 +97,7 @@ BD = [
         "AVALIACAO": 7.2,
         "PRECO": 49.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Assassin's Creed Valhalla",
@@ -107,6 +114,7 @@ BD = [
         "AVALIACAO": 9.0,
         "PRECO": 59.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Among Us",
@@ -117,6 +125,7 @@ BD = [
         "AVALIACAO": 9.0,
         "PRECO": 0.00,
         "FAIXA_ETARIA": "Para adolescentes",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Animal Crossing: New Horizons",
@@ -130,6 +139,7 @@ BD = [
         "AVALIACAO": 9.5,
         "PRECO": 49.99,
         "FAIXA_ETARIA": "Para todos a partir de 10 anos",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Rainbow Six Siege",
@@ -140,6 +150,7 @@ BD = [
         "AVALIACAO": 8.9,
         "PRECO": 29.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Death Stranding",
@@ -150,6 +161,7 @@ BD = [
         "AVALIACAO": 8.5,
         "PRECO": 39.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Final Fantasy VII Remake",
@@ -160,6 +172,7 @@ BD = [
         "AVALIACAO": 9.0,
         "PRECO": 49.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "The Last of Us Remastered",
@@ -170,6 +183,7 @@ BD = [
         "AVALIACAO": 9.5,
         "PRECO": 19.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Bloodborne",
@@ -180,6 +194,7 @@ BD = [
         "AVALIACAO": 9.3,
         "PRECO": 19.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Super Smash Bros. Ultimate",
@@ -190,6 +205,7 @@ BD = [
         "AVALIACAO": 9.7,
         "PRECO": 59.99,
         "FAIXA_ETARIA": "Para todos a partir de 10 anos",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Persona 5 Strikers",
@@ -200,6 +216,7 @@ BD = [
         "AVALIACAO": 8.7,
         "PRECO": 59.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Hades",
@@ -210,6 +227,7 @@ BD = [
         "AVALIACAO": 9.5,
         "PRECO": 24.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Monster Hunter: World",
@@ -220,6 +238,7 @@ BD = [
         "AVALIACAO": 9.2,
         "PRECO": 29.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Sekiro: Shadows Die Twice",
@@ -230,6 +249,7 @@ BD = [
         "AVALIACAO": 9.5,
         "PRECO": 39.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Celeste",
@@ -240,6 +260,7 @@ BD = [
         "AVALIACAO": 9.2,
         "PRECO": 19.99,
         "FAIXA_ETARIA": "Para todos a partir de 10 anos",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "The Elder Scrolls V: Skyrim",
@@ -250,6 +271,7 @@ BD = [
         "AVALIACAO": 9.3,
         "PRECO": 39.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Outer Wilds",
@@ -263,6 +285,7 @@ BD = [
         "AVALIACAO": 9.0,
         "PRECO": 24.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Stardew Valley",
@@ -284,6 +307,7 @@ BD = [
         "AVALIACAO": 9.5,
         "PRECO": 14.99,
         "FAIXA_ETARIA": "Para todos a partir de 10 anos",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Divinity: Original Sin 2",
@@ -294,6 +318,7 @@ BD = [
         "AVALIACAO": 9.6,
         "PRECO": 44.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Undertale",
@@ -310,6 +335,7 @@ BD = [
         "AVALIACAO": 9.3,
         "PRECO": 9.99,
         "FAIXA_ETARIA": "Para todos a partir de 10 anos",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Dead Cells",
@@ -327,6 +353,7 @@ BD = [
         "AVALIACAO": 9.0,
         "PRECO": 24.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Hollow Knight",
@@ -337,6 +364,7 @@ BD = [
         "AVALIACAO": 9.4,
         "PRECO": 14.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Cuphead",
@@ -350,6 +378,7 @@ BD = [
         "AVALIACAO": 9.3,
         "PRECO": 19.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
     {
         "TITULO": "Ori and the Blind Forest",
@@ -363,6 +392,7 @@ BD = [
         "AVALIACAO": 9.1,
         "PRECO": 19.99,
         "FAIXA_ETARIA": "Adulto 17+",
+        "OCORRENCIAS": 0,
     },
 ]
 
