@@ -1,16 +1,16 @@
-from utils import *
-from database import *
+from utils import indique_genero, indique_grau, deseja_adicionar_genero
+from database import BD, zerar_ocorrencias, mostrar_generos
 
 zerar_ocorrencias()
 
 generosIndicados = []
-ler = True
+continuar = True
 
 mostrar_generos()
 
-while ler:
+while continuar:
     generosIndicados.append((indique_genero(), indique_grau()))
-    ler = deseja_adicionar_genero()
+    continuar = deseja_adicionar_genero()
 
 # CALCULAR OCORRÊNCIAS
 for jogo in BD:
