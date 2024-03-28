@@ -1,7 +1,12 @@
 BD = [
     {
         "TITULO": "The Witcher 3: Wild Hunt",
-        "GENERO": [{"NOME": "RPG", "GRAU": 10}, {"NOME": "Ação", "GRAU": 9}],
+        "GENERO": [
+            {"NOME": "RPG", "GRAU": 10}, 
+            {"NOME": "Ação", "GRAU": 9}, 
+            {"NOME": "Luta", "GRAU": 5}, 
+            {"NOME": "Aventura", "GRAU": 10}
+        ],
         "DESENVOLVEDORA": "CD Projekt Red",
         "PLATAFORMAS": ["PlayStation 4", "Xbox One", "PC"],
         "LANCAMENTO": 2015,
@@ -13,7 +18,13 @@ BD = [
     },
     {
         "TITULO": "The Legend of Zelda: Breath of the Wild",
-        "GENERO": [{"NOME": "Ação", "GRAU": 9}, {"NOME": "Aventura", "GRAU": 9}],
+        "GENERO": [
+            {"NOME": "Ação", "GRAU": 9}, 
+            {"NOME": "Aventura", "GRAU": 9},
+            {"NOME": "Quebra-cabeça", "GRAU": 4},
+            {"NOME": "Sandbox", "GRAU": 7},
+            {"NOME": "Estratégia", "GRAU": 5}
+        ],
         "DESENVOLVEDORA": "Nintendo",
         "PLATAFORMAS": ["Nintendo Switch", "Wii U"],
         "LANCAMENTO": 2017,
@@ -25,7 +36,12 @@ BD = [
     },
     {
         "TITULO": "Grand Theft Auto V",
-        "GENERO": [{"NOME": "Ação", "GRAU": 9}, {"NOME": "Mundo Aberto", "GRAU": 8}],
+        "GENERO": [
+            {"NOME": "Ação", "GRAU": 10}, 
+            {"NOME": "Mundo Aberto", "GRAU": 10}, 
+            {"NOME": "Sandbox", "GRAU": 5}, 
+            {"NOME": "Multijogador", "GRAU": 10}
+        ],
         "DESENVOLVEDORA": "Rockstar Games",
         "PLATAFORMAS": ["PlayStation 4", "Xbox One", "PC"],
         "LANCAMENTO": 2013,
@@ -39,7 +55,9 @@ BD = [
         "TITULO": "Minecraft",
         "GENERO": [
             {"NOME": "Sandbox", "GRAU": 9},
-            {"NOME": "Sobrevivência", "GRAU": 8},
+            {"NOME": "Sobrevivência", "GRAU": 10},
+            {"NOME": "Ação", "GRAU": 5},
+            {"NOME": "Mundo Aberto", "GRAU": 10},
         ],
         "DESENVOLVEDORA": "Mojang",
         "PLATAFORMAS": [
@@ -59,7 +77,12 @@ BD = [
     },
     {
         "TITULO": "Red Dead Redemption 2",
-        "GENERO": [{"NOME": "Ação", "GRAU": 9}, {"NOME": "Aventura", "GRAU": 9}],
+        "GENERO": [
+            {"NOME": "Ação", "GRAU": 9}, 
+            {"NOME": "Aventura", "GRAU": 9},
+            {"NOME": "Mundo Aberto", "GRAU": 10},
+            {"NOME": "Aventura", "GRAU": 9},
+        ],
         "DESENVOLVEDORA": "Rockstar Games",
         "PLATAFORMAS": ["PlayStation 4", "Xbox One", "PC", "Google Stadia"],
         "LANCAMENTO": 2018,
@@ -71,7 +94,13 @@ BD = [
     },
     {
         "TITULO": "Fortnite",
-        "GENERO": [{"NOME": "Battle Royale", "GRAU": 9}, {"NOME": "Ação", "GRAU": 8}],
+        "GENERO": [
+            {"NOME": "Battle Royale", "GRAU": 9}, 
+            {"NOME": "Ação", "GRAU": 8}, 
+            {"NOME": "Multijogador", "GRAU": 9},
+            {"NOME": "Tiro", "GRAU": 10},
+            {"NOME": "Festa", "GRAU": 10}
+        ],
         "DESENVOLVEDORA": "Epic Games",
         "PLATAFORMAS": [
             "PlayStation 4",
@@ -90,7 +119,13 @@ BD = [
     },
     {
         "TITULO": "Cyberpunk 2077",
-        "GENERO": [{"NOME": "RPG", "GRAU": 8}, {"NOME": "Ação", "GRAU": 8}],
+        "GENERO": [
+            {"NOME": "RPG", "GRAU": 8}, 
+            {"NOME": "Ação", "GRAU": 10},
+            {"NOME": "Mundo Aberto", "GRAU": 10},
+            {"NOME": "Luta", "GRAU": 7},
+            {"NOME": "Tiro", "GRAU": 8},
+        ],
         "DESENVOLVEDORA": "CD Projekt Red",
         "PLATAFORMAS": [
             "PlayStation 4",
@@ -108,7 +143,12 @@ BD = [
     },
     {
         "TITULO": "Assassin's Creed Valhalla",
-        "GENERO": [{"NOME": "Ação", "GRAU": 9}, {"NOME": "Aventura", "GRAU": 8}],
+        "GENERO": [
+            {"NOME": "Ação", "GRAU": 9}, 
+            {"NOME": "Aventura", "GRAU": 8},
+            {"NOME": "Luta", "GRAU": 10},
+            {"NOME": "Mundo Aberto", "GRAU": 9},
+        ],
         "DESENVOLVEDORA": "Ubisoft Montreal",
         "PLATAFORMAS": [
             "PlayStation 4",
@@ -126,7 +166,12 @@ BD = [
     },
     {
         "TITULO": "Among Us",
-        "GENERO": [{"NOME": "Festa", "GRAU": 8}, {"NOME": "Multijogador", "GRAU": 8}],
+        "GENERO": [
+            {"NOME": "Festa", "GRAU": 8}, 
+            {"NOME": "Multijogador", "GRAU": 8},
+            {"NOME": "Sobrevivência", "GRAU": 6},
+            {"NOME": "Estratégia", "GRAU": 8}
+        ],
         "DESENVOLVEDORA": "InnerSloth",
         "PLATAFORMAS": ["PC", "iOS", "Android"],
         "LANCAMENTO": 2018,
@@ -141,6 +186,8 @@ BD = [
         "GENERO": [
             {"NOME": "Simulação", "GRAU": 9},
             {"NOME": "Vida virtual", "GRAU": 9},
+            {"NOME": "Mundo Aberto", "GRAU": 5},
+            {"NOME": "Multijogador", "GRAU": 6},
         ],
         "DESENVOLVEDORA": "Nintendo",
         "PLATAFORMAS": ["Nintendo Switch"],
@@ -153,7 +200,12 @@ BD = [
     },
     {
         "TITULO": "Rainbow Six Siege",
-        "GENERO": [{"NOME": "Tiro", "GRAU": 9}, {"NOME": "Estratégia", "GRAU": 8}],
+        "GENERO": [
+            {"NOME": "Tiro", "GRAU": 10}, 
+            {"NOME": "Estratégia", "GRAU": 8},
+            {"NOME": "Multijogador", "GRAU": 10},
+            {"NOME": "Ação", "GRAU": 10}
+        ],
         "DESENVOLVEDORA": "Ubisoft",
         "PLATAFORMAS": ["PlayStation 4", "Xbox One", "PC"],
         "LANCAMENTO": 2015,
@@ -165,7 +217,13 @@ BD = [
     },
     {
         "TITULO": "Death Stranding",
-        "GENERO": [{"NOME": "Ação", "GRAU": 9}, {"NOME": "Aventura", "GRAU": 8}],
+        "GENERO": [
+            {"NOME": "Simulação", "GRAU": 10}, 
+            {"NOME": "Aventura", "GRAU": 8},
+            {"NOME": "Sobrevivência", "GRAU": 9},
+            {"NOME": "Mundo Aberto", "GRAU": 8},
+
+        ],
         "DESENVOLVEDORA": "Kojima Productions",
         "PLATAFORMAS": ["PlayStation 4", "PC"],
         "LANCAMENTO": 2019,
@@ -177,7 +235,11 @@ BD = [
     },
     {
         "TITULO": "Final Fantasy VII Remake",
-        "GENERO": [{"NOME": "RPG", "GRAU": 9}],
+        "GENERO": [
+            {"NOME": "RPG", "GRAU": 9},
+            {"NOME": "Ação", "GRAU": 9},
+            {"NOME": "Aventura", "GRAU": 10},
+        ],
         "DESENVOLVEDORA": "Square Enix",
         "PLATAFORMAS": ["PlayStation 4"],
         "LANCAMENTO": 2020,
@@ -189,7 +251,11 @@ BD = [
     },
     {
         "TITULO": "The Last of Us Remastered",
-        "GENERO": [{"NOME": "Ação", "GRAU": 9}, {"NOME": "Aventura", "GRAU": 9}],
+        "GENERO": [
+            {"NOME": "Ação", "GRAU": 9}, 
+            {"NOME": "Aventura", "GRAU": 9},
+            {"NOME": "Suspense", "GRAU": 10},
+        ],
         "DESENVOLVEDORA": "Naughty Dog",
         "PLATAFORMAS": ["PlayStation 4"],
         "LANCAMENTO": 2014,
@@ -201,7 +267,12 @@ BD = [
     },
     {
         "TITULO": "Bloodborne",
-        "GENERO": [{"NOME": "RPG", "GRAU": 9}, {"NOME": "Ação", "GRAU": 9}],
+        "GENERO": [
+            {"NOME": "RPG", "GRAU": 9}, 
+            {"NOME": "Ação", "GRAU": 9},
+            {"NOME": "Suspense", "GRAU": 6},
+            {"NOME": "Aventura", "GRAU": 6}
+        ],
         "DESENVOLVEDORA": "FromSoftware",
         "PLATAFORMAS": ["PlayStation 4"],
         "LANCAMENTO": 2015,
@@ -213,7 +284,12 @@ BD = [
     },
     {
         "TITULO": "Super Smash Bros. Ultimate",
-        "GENERO": [{"NOME": "Luta", "GRAU": 9}, {"NOME": "Ação", "GRAU": 9}],
+        "GENERO": [
+            {"NOME": "Luta", "GRAU": 9},
+            {"NOME": "Ação", "GRAU": 9},
+            {"NOME": "Festa", "GRAU": 10},
+            {"NOME": "Multijogador", "GRAU": 10}
+        ],
         "DESENVOLVEDORA": "Bandai Namco Studios",
         "PLATAFORMAS": ["Nintendo Switch"],
         "LANCAMENTO": 2018,
@@ -225,7 +301,10 @@ BD = [
     },
     {
         "TITULO": "Persona 5 Strikers",
-        "GENERO": [{"NOME": "RPG", "GRAU": 8}, {"NOME": "Ação", "GRAU": 8}],
+        "GENERO": [
+            {"NOME": "RPG", "GRAU": 8}, 
+            {"NOME": "Ação", "GRAU": 8}
+        ],
         "DESENVOLVEDORA": "Omega Force",
         "PLATAFORMAS": ["PlayStation 4", "Nintendo Switch", "PC"],
         "LANCAMENTO": 2021,
@@ -237,7 +316,11 @@ BD = [
     },
     {
         "TITULO": "Hades",
-        "GENERO": [{"NOME": "Roguelike", "GRAU": 9}, {"NOME": "Ação", "GRAU": 9}],
+        "GENERO": [
+            {"NOME": "Roguelike", "GRAU": 9}, 
+            {"NOME": "Ação", "GRAU": 9},
+            {"NOME": "Estratégia", "GRAU": 9}
+        ],
         "DESENVOLVEDORA": "Supergiant Games",
         "PLATAFORMAS": ["PC", "Nintendo Switch"],
         "LANCAMENTO": 2020,
@@ -249,7 +332,11 @@ BD = [
     },
     {
         "TITULO": "Monster Hunter: World",
-        "GENERO": [{"NOME": "Ação", "GRAU": 9}, {"NOME": "RPG", "GRAU": 9}],
+        "GENERO": [
+            {"NOME": "Ação", "GRAU": 9}, 
+            {"NOME": "RPG", "GRAU": 9},
+            {"NOME": "Sobrevivência", "GRAU": 10},  
+        ],
         "DESENVOLVEDORA": "Capcom",
         "PLATAFORMAS": ["PlayStation 4", "Xbox One", "PC"],
         "LANCAMENTO": 2018,
@@ -261,7 +348,10 @@ BD = [
     },
     {
         "TITULO": "Sekiro: Shadows Die Twice",
-        "GENERO": [{"NOME": "Ação", "GRAU": 9}, {"NOME": "Aventura", "GRAU": 9}],
+        "GENERO": [
+            {"NOME": "Ação", "GRAU": 9}, 
+            {"NOME": "Aventura", "GRAU": 9}
+        ],
         "DESENVOLVEDORA": "FromSoftware",
         "PLATAFORMAS": ["PlayStation 4", "Xbox One", "PC"],
         "LANCAMENTO": 2019,
@@ -273,7 +363,11 @@ BD = [
     },
     {
         "TITULO": "Celeste",
-        "GENERO": [{"NOME": "Plataforma", "GRAU": 9}, {"NOME": "Ação", "GRAU": 9}],
+        "GENERO": [
+            {"NOME": "Plataforma", "GRAU": 9}, 
+            {"NOME": "Ação", "GRAU": 9},
+            {"NOME": "Casual", "GRAU": 10},
+        ],
         "DESENVOLVEDORA": "Maddy Makes Games",
         "PLATAFORMAS": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
         "LANCAMENTO": 2018,
@@ -285,7 +379,12 @@ BD = [
     },
     {
         "TITULO": "The Elder Scrolls V: Skyrim",
-        "GENERO": [{"NOME": "RPG", "GRAU": 9}, {"NOME": "Ação", "GRAU": 9}],
+        "GENERO": [
+            {"NOME": "RPG", "GRAU": 9}, 
+            {"NOME": "Ação", "GRAU": 9},
+            {"NOME": "Multijogador", "GRAU": 5},
+            {"NOME": "Sobrevivência", "GRAU": 6}
+        ],
         "DESENVOLVEDORA": "Bethesda Game Studios",
         "PLATAFORMAS": ["PlayStation 4", "Xbox One", "PC", "Nintendo Switch"],
         "LANCAMENTO": 2011,
@@ -300,6 +399,8 @@ BD = [
         "GENERO": [
             {"NOME": "Aventura", "GRAU": 9},
             {"NOME": "Quebra-cabeça", "GRAU": 8},
+            {"NOME": "Estratégia", "GRAU": 5},
+            {"NOME": "Ação", "GRAU": 5},
         ],
         "DESENVOLVEDORA": "Mobius Digital",
         "PLATAFORMAS": ["PC", "PlayStation 4", "Xbox One"],
@@ -335,7 +436,12 @@ BD = [
     },
     {
         "TITULO": "Divinity: Original Sin 2",
-        "GENERO": [{"NOME": "RPG", "GRAU": 10}, {"NOME": "Aventura", "GRAU": 9}],
+        "GENERO": [
+            {"NOME": "RPG", "GRAU": 10}, 
+            {"NOME": "Aventura", "GRAU": 9},
+            {"NOME": "Roguelike", "GRAU": 5}, 
+            {"NOME": "Ação", "GRAU": 4}
+        ],
         "DESENVOLVEDORA": "Larian Studios",
         "PLATAFORMAS": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
         "LANCAMENTO": 2017,
@@ -347,7 +453,12 @@ BD = [
     },
     {
         "TITULO": "Undertale",
-        "GENERO": [{"NOME": "RPG", "GRAU": 9}, {"NOME": "Aventura", "GRAU": 9}],
+        "GENERO": [
+            {"NOME": "RPG", "GRAU": 9}, 
+            {"NOME": "Aventura", "GRAU": 8},
+            {"NOME": "Estratégia", "GRAU": 9}, 
+            {"NOME": "Sandbox", "GRAU": 7},
+        ],
         "DESENVOLVEDORA": "Toby Fox",
         "PLATAFORMAS": [
             "PC",
@@ -365,7 +476,12 @@ BD = [
     },
     {
         "TITULO": "Dead Cells",
-        "GENERO": [{"NOME": "Roguelike", "GRAU": 9}, {"NOME": "Plataforma", "GRAU": 9}],
+        "GENERO": [
+            {"NOME": "Roguelike", "GRAU": 9}, 
+            {"NOME": "Plataforma", "GRAU": 9},
+            {"NOME": "Estratégia", "GRAU": 6},
+            {"NOME": "Sandbox", "GRAU": 8},
+        ],
         "DESENVOLVEDORA": "Motion Twin",
         "PLATAFORMAS": [
             "PC",
@@ -384,7 +500,12 @@ BD = [
     },
     {
         "TITULO": "Hollow Knight",
-        "GENERO": [{"NOME": "Metroidvania", "GRAU": 9}, {"NOME": "Ação", "GRAU": 9}],
+        "GENERO": [
+            {"NOME": "Metroidvania", "GRAU": 10}, 
+            {"NOME": "Ação", "GRAU": 7},
+            {"NOME": "Estratégia", "GRAU": 6},
+            {"NOME": "Sandbox", "GRAU": 8},
+        ],
         "DESENVOLVEDORA": "Team Cherry",
         "PLATAFORMAS": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
         "LANCAMENTO": 2017,
@@ -397,8 +518,10 @@ BD = [
     {
         "TITULO": "Cuphead",
         "GENERO": [
-            {"NOME": "Run and gun", "GRAU": 9},
-            {"NOME": "Plataforma", "GRAU": 9},
+            {"NOME": "Run and gun", "GRAU": 10},
+            {"NOME": "Plataforma", "GRAU": 10},
+            {"NOME": "Ação", "GRAU": 8},
+            {"NOME": "Sandbox", "GRAU": 8},
         ],
         "DESENVOLVEDORA": "Studio MDHR",
         "PLATAFORMAS": ["PC", "Xbox One", "Nintendo Switch"],
@@ -414,6 +537,8 @@ BD = [
         "GENERO": [
             {"NOME": "Metroidvania", "GRAU": 9},
             {"NOME": "Aventura", "GRAU": 9},
+            {"NOME": "Ação", "GRAU": 7},
+            {"NOME": "Sandbox", "GRAU": 6},
         ],
         "DESENVOLVEDORA": "Moon Studios",
         "PLATAFORMAS": ["PC", "Xbox One", "Nintendo Switch"],
