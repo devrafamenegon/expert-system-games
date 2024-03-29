@@ -1,5 +1,5 @@
 def indique_genero():
-    return input("Informe um gênero: ").capitalize()
+    return input("Informe um gênero: ")
 
 
 def indique_grau():
