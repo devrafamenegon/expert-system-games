@@ -555,6 +555,7 @@ BD = [
 def zerar_ocorrencias():
     for jogo in BD:
         jogo["OCORRENCIAS"] = 0
+        jogo["PERCENTUAL"] = 0
 
 
 def mostrar_generos():
