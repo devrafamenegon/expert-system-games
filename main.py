@@ -2,7 +2,7 @@ from unidecode import unidecode
 from utils import indique_genero, indique_grau, deseja_adicionar_genero
 from database import BD, zerar_ocorrencias, mostrar_generos
 
-
+# ZERAR OCORRENCIAS E PERCENTUAIS NO BANCO DE DADOS
 zerar_ocorrencias()
 
 # INICIALIZAR VARIÁVEIS
