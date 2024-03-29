@@ -1,4 +1,4 @@
-# 🎮 Sistema Especialista para Recomendação de Jogos 🕹️
+# Sistema Especialista em Recomendação de Jogos 🕹️
 
 ## Objetivo do Projeto
 
